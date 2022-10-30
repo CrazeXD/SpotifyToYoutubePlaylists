@@ -1,3 +1,4 @@
 /.cache
 /client_data.json
 /env
+__pycache__
